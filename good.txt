@@ -1,0 +1,4 @@
+git is a diversed version control system
+git is a free software
+hahaha,quit need to input ':'
+then, use the 'wq'
